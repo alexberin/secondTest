@@ -3,7 +3,7 @@ package de.javateam;
 public class main {
 
 	public static void main(String[] args) {
-	  int a = 10;
+	  int a = 5;
 		//TODO Auto-generated method stub
 	System.out.println();
 		
